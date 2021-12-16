@@ -7,7 +7,7 @@
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
     "debug": "DEBUG=* eleventy",
-    "deploy": "layer0 deploy"
+    "layer0:deploy": "layer0 deploy"
   },
   "license": "MIT",
   "devDependencies": {
